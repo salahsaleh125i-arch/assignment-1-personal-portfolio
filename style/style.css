@@ -1,0 +1,168 @@
+* {
+    box-sizing: border-box;
+}
+
+.for-me {
+    background-color: blue;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    border-radius: 20px;
+    padding: 10px;
+    color: white;
+}
+
+.for-me button {
+    border-radius: 10px;
+    background-color: brown;
+    color: aqua;
+    padding: 10px;
+}
+
+.about-me {
+    width: 80%;
+    margin: auto;
+    background-color: rgb(245, 245, 245);
+    padding: 10px;
+    border-radius: 15px;
+    margin-top: 10px;
+
+}
+
+.about {
+    width: 50%;
+    float: left;
+}
+
+.about img {
+    width: 50%;
+    border-radius: 50%;
+}
+
+.clear-fix {
+    clear: both;
+}
+
+.about-me h2 {
+    text-decoration: underline;
+}
+
+.about button {
+    color: white;
+    background-color: rgb(33, 33, 155);
+    border-radius: 10px;
+}
+
+.my-skill {
+    border-radius: 15px;
+    width: 80%;
+    margin: auto;
+    margin-top: 10px;
+   margin-bottom: 5px;
+    background-color: rgb(105, 205, 201);
+    padding: 8px;
+    border-left: 3px solid blue;
+}
+
+.skill {
+    width: 25%;
+    float: left;
+
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.back-ground {
+    background-color: aqua;
+}
+
+.text-decortion {
+    text-decoration: underline;
+}
+
+.experince1 {
+    width: 80%;
+    margin: auto;
+    background-color: rgb(230, 241, 238);
+    padding: 20px;
+    border-radius: 10px;
+
+    border-left: 6px solid #e31515;
+}
+
+.icon {
+    width: 20%;
+    float: left;
+    padding: 20px;
+    border-radius: 50%;
+}
+
+.icon img {
+    width: 100;
+
+}
+
+.info {
+    float: left;
+    width: 60%;
+}
+
+
+
+.icon1 {
+    width: 20%;
+    float: left;
+    padding: 20px;
+    border-radius: 50%;
+}
+
+.icon1 img {
+    width: 100;
+
+}
+
+.info1 {
+    float: left;
+    width: 60%;
+}
+
+.d {
+    padding: 20px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    border-left: 6px solid red;
+    width: 80%;
+    margin: auto;
+    margin-top: 10px;
+
+}
+
+.contact-me {
+    width: 80%;
+    margin: auto;
+    background-color: rgb(22, 22, 171);
+    padding: 20px;
+    border-radius: 20px;
+    color: aliceblue;
+    margin-top: 10PX;
+}
+
+.contact-me button {
+    padding: 5px;
+    border-radius: 5px;
+    background-color: black;
+    color: aliceblue;
+}
+
+.end {
+    width: 80%;
+    color: aliceblue;
+    background-color: black;
+    margin-top: 20px;
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+    margin: auto;
+
+    margin-top: 20px;
+}
